@@ -19,3 +19,5 @@ Highlights
     Present data using interactive visuals to help make informed decisions.
 
     Improve individual and team productivity with insights into how employees spend their time.
+    
+    Identifing Key performance indicators.
